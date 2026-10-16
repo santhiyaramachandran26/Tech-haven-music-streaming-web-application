@@ -1,2 +1,2 @@
 # Tech-haven-music-streaming-web-application
-🎧 A full-stack music streaming web application featuring seamless audio playback, real-time track search, interactive player controls, and custom user playlists.
+🎧 A full-stack music streaming web application featuring seamless audio playback, real-time track search, interactive player controls, and custom user playlists.Tech Haven is a sleek, modern music streaming web application designed to offer an immersive listening experience. It features continuous global audio playback, user authentication, playlist management, and a responsive user interface across all devices.
